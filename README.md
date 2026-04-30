@@ -24,7 +24,7 @@ Beorningus est un petit plugin pour avoir un accès rapide à votre changement d
 
 | Commande / Touche | Action | 
 |--------|------------------|
-| Afficher / Masquer l'icône | `/Alt icon` |
+| Afficher / Masquer l'icône | `/Beo icon` |
 | Déplacer l’icône | `ALT` |
 | Ouvrir les options | `SHIFT + clic sur l’icône` |
 

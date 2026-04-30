@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1167</Id>
+  <Name>Beorningus</Name>
+  <Version>1.01</Version>
+<Author>Homeopatix</Author>
+		<Description>
+DESCRIPTION (Francais)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Beorningusest un petit plugin pour avoir un acces rapide a vos changement de forme
+Vous pouvez effacer un raccourci avec la mollete de la souris sur le reccourci
+Clique droite sur l'icone pour ouvrir la fenetre d'options
+
+DESCRIPTION (English)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Beorningus is a small plugin to have quick access to your shape changes
+You can delete a sClassrtcut with the mouse wheel on the sClassrtcut
+Right click on the icon to open the options window
+
+DESCRIPTION (Deutsche)  
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Beorningus ist ein kleines Plugin, mit dem Sie schnell auf Ihre Formanderungen zugreifen konnen
+Sie konnen eine Verknupfung mit dem Mausrad auf der Verknupfung loschen
+Sie konnen auf die Schaltflache Beorningusklicken, um das Fenster anzuzeigen, oder auf die Schaltflache klicken, um es auszublenden
+Klicken Sie mit der rechten Maustaste auf das Symbol, um das Optionsfenster zu offnen
+
+LIST OF ALL COMMANDS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+(French)
+Raccourci disponible
+/Class show -- montre la fenetre
+/Class hide -- cache la fenetre
+/Class esc - active ou desactive la touche escape
+/Class clear -- effacer toutes les entrees
+/Class options -- affiche la fenetre d'option
+/Class lock pour verrouiller ou deverrouiller les icones
+/Class toggle - affiche ou cache la fenetre
+
+(English)
+ShortCuts available
+/Class show - show the window
+/Class hide - hide the window
+/Class esc - activate or deactivate the escape key
+/Class clear - clear all entries
+/Class options -- display the options panel
+/Class lock to lock or unlock the icons
+/Class toggle - display or hide the window
+
+(Deutsche)
+Verknupfung verfugbar
+/Class show - zeige das Fenster
+/Class Hide - Verstecke das Fenster
+/Class esc - Aktivieren oder deaktivieren Sie die Escape-Taste
+/Class clear - Alle Eintrage loschen
+/Class options -- Zeigen Sie das Optionsfeld an
+/Class lock um die Symbole zu sperren oder zu entsperren
+/Class toggle - Fenster ein-oder ausblenden
+		</Description>
+  <InfoUrl>http://www.lotrointerface.com/downloads/info1167</InfoUrl>
+  <DownloadUrl>http://www.lotrointerface.com/downloads/download1167</DownloadUrl>
+  <Descriptors>
+    <descriptor>Homeopatix\Beorniungus.plugin</descriptor>
+  </Descriptors>
+  <Dependencies />
+</PluginConfig>
